@@ -20,3 +20,5 @@ rdflib
 rdflib
 zstandard
 rapidfuzz
+praw
+python-dotenv
