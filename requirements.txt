@@ -22,3 +22,4 @@ zstandard
 rapidfuzz
 praw
 python-dotenv
+openai

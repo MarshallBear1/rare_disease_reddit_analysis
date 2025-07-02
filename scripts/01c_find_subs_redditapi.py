@@ -104,4 +104,4 @@ with OUT.open(mode, newline="", encoding="utf-8") as fh:
             )
 
         if idx % 60 == 0:
-            print(f"
+	print(f"…{idx}/{len(terms)} terms — {len(seen)} unique subs")
