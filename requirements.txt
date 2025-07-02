@@ -1,0 +1,19 @@
+pandas
+tqdm
+requests
+praw
+psaw
+spacy
+spacy-transformers
+scikit-learn
+sentence-transformers
+gensim
+nltk
+vaderSentiment
+transformers>=4.40
+torch        # installs CPU build by default
+matplotlib
+seaborn
+beautifulsoup4
+
+rdflib
