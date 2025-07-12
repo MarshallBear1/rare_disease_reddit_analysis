@@ -1,0 +1,6 @@
+[SCAN] 15,584 non-numeric terms to query
+[SCAN] Resuming — 423 subs already collected
+Traceback (most recent call last):
+  File "C:\Users\marsh\rare-disease-reddit-analysis\scripts\01c_find_subs_redditapi.py", line 91, in <module>
+    time.sleep(1.1)
+KeyboardInterrupt
